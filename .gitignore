@@ -1,0 +1,17 @@
+#Liste des fichiers ignores par git
+
+#on ignore les fihiers .class
+
+*.class
+
+#On ignore le dossier target
+
+target
+
+#On ignore le dossier .idea
+
+.idea
+
+#on ignore les fichiers .iml
+
+*.iml
