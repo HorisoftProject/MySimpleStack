@@ -6,8 +6,7 @@ package dcll.koma;
  */
 public class App 
 {
-    //sa afiche helo worlde
-    // fo ajouté dé truk
+    //je corrige le bug lalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalalala
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
