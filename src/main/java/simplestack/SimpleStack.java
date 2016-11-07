@@ -16,3 +16,5 @@ public interface SimpleStack {
 
     public Object pop() throws EmptyStackException;
 }
+
+// VOICI DES CROISSANTS AU SAUMON
